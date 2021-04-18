@@ -11,7 +11,7 @@ The slope of the linear model is not zero because the p-value is extremely low (
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 Since the r-squared value is 0.7149, this linear model does a good job of predicting mpg of MechaCar prototypes. Based on the r-squared value, the model will predict mpg values correctly l71.49% of the time. See images of the regression and summary statistics below: 
 
-<br/> ![regression1](regression1.png) <br/> 
+<br/> ![regression1](images/regression1.png) <br/> 
 
 <br/> ![summary1](summary1.png) <br/> <br/> <br/> <br/> 
 
