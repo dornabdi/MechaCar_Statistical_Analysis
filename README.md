@@ -12,7 +12,7 @@ The slope of the linear model is not zero because the p-value is extremely low (
 Since the r-squared value is 0.7149, this linear model does a good job of predicting mpg of MechaCar prototypes. Based on the r-squared value, the model will predict mpg values correctly l71.49% of the time. See images of the regression and summary statistics below: 
 
 ### Linear Regression
-![Regression1](images/Regression1.png) <br/> 
+![Regression1](images/Regression1.png) <br/> <br/>
 
 ### Summary Statistics
 ![summary1](images/Summary1.png) <br/> <br/> <br/> 
@@ -20,7 +20,7 @@ Since the r-squared value is 0.7149, this linear model does a good job of predic
 ## Summary Statistics on Suspension Coils
 
 Based on the summary statistics for suspension coils, the data for overall coil suspension does meet the design specifications of <100 pounds per square inch. As you can see in the image below: the variance is 62.29356. <br/>
-<br/> ![totaldf1](images/totaldf2.png) <br/> 
+<br/> ![totaldf1](images/totaldf2.png) <br/> <br/>
 
 As for the individual lots, only lot 3 does not meet design specifications because its variance is 170.2861224. This value is well over the variance limit of 100 pounds per square inch. As you can see in the image below, lots 1 and 2 meet the design specifications. <br/>
 <br/> ![lotdf2](images/lotdf2.png) <br/> <br/> 
