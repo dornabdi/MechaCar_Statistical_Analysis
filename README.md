@@ -35,3 +35,19 @@ This next  t-test was conducted to to determine if the PSI across each indivual 
 
 This next  t-test was conducted to to determine if the PSI across each indivual manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. This T-Test is for Lot #3. The p-value for this test is 0.04168. Since the p-value of 0.04168 is below our common significant level of .05, we have enough evidence to reject the null hypotethsis so the two means are not statistically similar.
 <br/> ![ttest3.4](ttest3.4.png) <br/> <br/> <br/> 
+
+## Study Design: MechaCar vs Competition
+- What metric or metrics are you going to test?
+I am going to test if there is a difference in the mean of the cost of Mechacar vs the competition(population values).
+
+- What is the null hypothesis or alternative hypothesis?
+Null Hypotheses(H0) - There is no statistical difference between the mean cost of Mechacar and its competition.
+Alternative Hypothesis - There is a statistical difference between the mean costt of Mechacar and its competition. 
+
+- What statistical test would you use to test the hypothesis? And why?
+I would use a one-sample t-test because. In this test, there is one dichotomous independent variable (MechaCar vs Population) and a continuous dependent variable (safety rating). 
+
+One-sample t-tests asks "Is there a statistical difference between the mean of the sample distribution and the mean of the population distribution?". For the purpose of our test, we want to identify if there is a statistically significant difference between mean population and mean sample cost. 
+
+- What data is needed to run the statistical test?
+We would need the individual cost of MechaCar vehicles and the mean safety rating of all MechaCar vehicles to compare. 
