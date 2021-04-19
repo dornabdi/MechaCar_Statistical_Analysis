@@ -21,7 +21,7 @@ Based on the summary statistics for suspension coils, the data for overall coil 
 <br/> ![totaldf1](images/totaldf1.png) <br/> 
 
 As for the individual lots, only lot 3 does not meet design specifications because its variance is 170.2861224. This value is well over the variance limit of 100 pounds per square inch. As you can see in the image below, lots 1 and 2 meet the design specifications. 
-<br/> ![lotdf2](images/lotdf2.png) <br/> <br/> <br/> 
+<br/> ![lotdf2](images/lotdf2.png) <br/> <br/> 
 
 ## T-Tests on Suspension Coils
 The first t-test was conducted to to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. The p-value for this test is 0.06028. Since the p-value of 0.06028 is above our common significant level of .05, we do not have enough evidence to reject the null hypotethsis and the two means are statistically similar. 
@@ -47,7 +47,7 @@ Alternative Hypothesis - There is a statistical difference between the mean cost
 - What statistical test would you use to test the hypothesis? And why?
 I would use a one-sample t-test because. In this test, there is one dichotomous independent variable (MechaCar vs Population) and a continuous dependent variable (safety rating). 
 
-One-sample t-tests asks "Is there a statistical difference between the mean of the sample distribution and the mean of the population distribution?". For the purpose of our test, we want to identify if there is a statistically significant difference between mean population and mean sample cost. 
+- One-sample t-tests asks "Is there a statistical difference between the mean of the sample distribution and the mean of the population distribution?". For the purpose of our test, we want to identify if there is a statistically significant difference between mean population and mean sample cost. 
 
 - What data is needed to run the statistical test?
 We would need the individual cost of MechaCar vehicles and the mean safety rating of all MechaCar vehicles to compare. 
